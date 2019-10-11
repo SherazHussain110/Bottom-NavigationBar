@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SafeRydeModule2</string>
+    <string name="basic">Basic</string>
+    <string name="at_list">At least 21 years old with a driver license. \nStandard car at least a 2000 model.</string>
+    <string name="cont">Continue</string>
+    <string name="connect_more_ride_safe">Connect More, Ride Safe</string>
+    <string name="select_your_car">Select your car How would you like To partner in Safe Ryde</string>
+    <string name="standard">Standard</string>
+    <string name="at_list_standard">At least 21 years old with a driver license. \nStandard car at least a 2006 model.</string>
+    <string name="premium">Premium</string>
+    <string name="at_list_premium">At least 21 years old with a driver license. \nStandard car at least a 2015 model.</string>
+    <string name="take_photo">Take Photo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="take_photo_from">Take Photo From:</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
